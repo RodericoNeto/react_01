@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './1516869932899-removebg-preview.png';
 import './App.css';
 
 function App() {
